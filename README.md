@@ -137,7 +137,10 @@ jupyter notebook "Project Report.ipynb"
 
 Alternatively:
 
-Download the notebook and run it in Google Colab.
+- Open the notebook from Google Colab by using the repository link.
+- Use the following link:
+  
+https://colab.research.google.com/github/LenaAshqar/Binary-Classification-Model-for-VR-Impact-on-Education/blob/main/Project%20Report.ipynb
 
 ## 📌 Key Takeaways
 - VR effectiveness depends on multiple interacting factors
